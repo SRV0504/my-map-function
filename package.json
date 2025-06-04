@@ -1,0 +1,19 @@
+{
+  "name": "@srv0504/-my-map-function",
+  "version": "1.0.0",
+  "description": "first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SRV0504/my-map-function.git"
+  },
+  "author": "@srv0504",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SRV0504/my-map-function/issues"
+  },
+  "homepage": "https://github.com/SRV0504/my-map-function#readme"
+}
